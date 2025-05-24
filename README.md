@@ -8,7 +8,7 @@ I have been currently learning c++ and python. Looking forward to improve my ski
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [deniskamuyu109@gmail.com](mailto:deniskamuyu109@gmail.com)
-* 🧠  I'm learning C++, Python, Web development, C#
+* 🧠  I'm learning C++, Python, Web development
 
 ### Skills
 
