@@ -5,7 +5,6 @@ A C++, Web dev and Python developer
 ---------------------------------------
 
 
-* 🧠  I'm learning C++, Python, Web development
 
 ### Skills
 
