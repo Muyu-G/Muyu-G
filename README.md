@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I'm a **C++**, **Python**, and **Full Stack Developer** with experience in **Machine Learning**, **Databases**, and **Cross-platform Mobile Development**.  
+I'm a **C++**, **Python**, and **Full Stack Developer** with some experience in **Machine Learning**, **Databases**, and **Cross-platform Mobile Development**.  
 I have a growing passion for **Game Development** and enjoy building things that are interactive, efficient, and fun.
 
 ---
