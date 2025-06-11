@@ -1,10 +1,11 @@
-<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Muyu</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Muyu G</h1>
 
 ---
 
 ### 🚀 About Me
-I'm a **C++**, **Python**, and **Full Stack Developer** with a growing interest in **Machine Learning** and **Cross-platform Mobile Development**.  
-I love solving problems, building apps, and exploring new technologies.
+
+I'm a **C++**, **Python**, and **Full Stack Developer** with experience in **Machine Learning**, **Databases**, and **Cross-platform Mobile Development**.  
+I have a growing passion for **Game Development** and enjoy building things that are interactive, efficient, and fun.
 
 ---
 
@@ -22,12 +23,12 @@ I love solving problems, building apps, and exploring new technologies.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
   </a>
 
-  <!-- Web Dev -->
+  <!-- Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -49,13 +50,12 @@ I love solving problems, building apps, and exploring new technologies.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" />
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" />
   </a>
-
 
   <!-- ML -->
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
 </p>
 
@@ -63,10 +63,10 @@ I love solving problems, building apps, and exploring new technologies.
 
 ### 📌 Currently Exploring
 
-- Deepening my knowledge of **Machine Learning**
-- Working on **mobile apps** using **Flutter + Dart**
-- Building backend systems with **Django** and **PostgreSQL**
+- 🧠 Machine Learning models & applications  
+- 📱 Flutter app development with Dart  
+- 🎮 **Game development** with C++ and game engines like SDL or Unreal  
+- 🗃️ Backend APIs with Django + PostgreSQL  
 
 ---
 
-<!-- Optional: Add 'Pinned Projects' or 'Learning Goals' later -->
