@@ -49,8 +49,9 @@ I love solving problems, building apps, and exploring new technologies.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" />
   </a>
+
 
   <!-- ML -->
   <a href="https://scikit-learn.org/" target="_blank">
