@@ -4,8 +4,9 @@
 
 ### 🚀 About Me
 
-I'm a **C++**, **Python**, and **Full Stack Developer** with experience in **Machine Learning**(still grinding though 😅), **Databases**, and **Cross-platform Mobile Development**.  
-I have a growing passion for **Game Development** and enjoy building things that are interactive, efficient, and fun.
+I'm a **C++**, **Python**, and **Full Stack Developer** with experience in **Machine Learning** (still grinding though 😅), **Databases**, and **Cross-platform Mobile Development**.  
+I have a growing passion for **Game Development** and enjoy building things that are interactive, efficient, and fun.  
+Lately, I've also developed a deep curiosity for **Reverse Engineering** — exploring how things work under the hood and tinkering with binaries and low-level systems.
 
 ---
 
@@ -67,6 +68,6 @@ I have a growing passion for **Game Development** and enjoy building things that
 - 📱 Flutter app development with Dart  
 - 🎮 **Game development** with C++ and game engines like SDL or Unreal  
 - 🗃️ Backend APIs with Django + PostgreSQL  
+- 🕵️ **Reverse Engineering** basics, tools (e.g. Ghidra, IDA), and low-level internals  
 
 ---
-
