@@ -66,7 +66,7 @@ Lately, I've also developed a deep curiosity for **Reverse Engineering** — exp
 
 - 🧠 Machine Learning models & applications  
 - 📱 Flutter app development with Dart  
-- 🎮 **Game development** with C++ and game engines like SDL or Unreal  
+- 🎮 **Game development** with C++ and game engines like SDL or Unreal etc
 - 🗃️ Backend APIs with Django + PostgreSQL  
 - 🕵️ **Reverse Engineering** basics, tools (e.g. Ghidra, IDA), and low-level internals  
 
